@@ -14,7 +14,7 @@
 * 📧 joaoareias11@gmail.com
 * ℹ️ www.linkedin.com/in/joaoareias
 
-## 💻 Tecnologias:
+## 💻 Technologies:
 <p>
   <img src="https://img.shields.io/badge/ReactJS-14354C?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white">
@@ -30,7 +30,7 @@
   <!--<img src="https://img.shields.io/badge/tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white">-->
 </p>
 
-## 📊 Estatísticas de projetos públicos:
+## 📊 Public project statistics:
 <p>
   <img 
     align="left" 
