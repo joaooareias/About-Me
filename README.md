@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/AngularJS-grey?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=csswizardry&logoColor=white">
   <!--<img src="https://img.shields.io/badge/tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white">-->
 </p>
 
